@@ -12,6 +12,8 @@
 - [Axios](https://github.com/axios/axios): Promise based HTTP client for the browser and node.js
 ## Mobile
 - [React Native](https://facebook.github.io/react-native): Build native mobile apps using JavaScript and React
+## Web Starter Kit
+- [React Starter Kit](https://github.com/kriasoft/react-starter-kit): Isomorphic web app boilerplate (Node.js, Express, GraphQL, React.js, Babel, PostCSS, Webpack, Browsersync)
 ## Tools
 - [GraphQL Code-Generator](https://github.com/dotansimha/graphql-code-generator): GraphQL code generator, with flexible support for multiple languages and platforms, and the ability to create custom generated projects based on GraphQL schema or operations.
 - [Create React App](https://github.com/facebookincubator/create-react-app): Create React apps with no build configuration.
