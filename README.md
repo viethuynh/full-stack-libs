@@ -9,8 +9,8 @@
 - [React](https://reactjs.org): A JavaScript library for building user interfaces
 - [Ant Design](https://ant.design): A UI Design Language
 - [Apollo Client](http://dev.apollodata.com): The flexible, production ready GraphQL client for React and native apps.
-### Mobile
+## Mobile
 - [React Native](https://facebook.github.io/react-native): Build native mobile apps using JavaScript and React
-### Tools
+## Tools
 - [GraphQL Code-Generator](https://github.com/dotansimha/graphql-code-generator): GraphQL code generator, with flexible support for multiple languages and platforms, and the ability to create custom generated projects based on GraphQL schema or operations.
 
