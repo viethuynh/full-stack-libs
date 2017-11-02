@@ -18,3 +18,5 @@
 ## Tools
 - [GraphQL Code-Generator](https://github.com/dotansimha/graphql-code-generator): GraphQL code generator, with flexible support for multiple languages and platforms, and the ability to create custom generated projects based on GraphQL schema or operations.
 - [Create React App](https://github.com/facebookincubator/create-react-app): Create React apps with no build configuration.
+## Dev Tips
+- [Javascript Debugging Tips](https://raygun.com/javascript-debugging-tips): The 14 JavaScript debugging tips you probably didn't know
